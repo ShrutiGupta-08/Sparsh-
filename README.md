@@ -1,2 +1,2 @@
 # Sparsh 
-A web Application project of hospital management system
+This is project of Hospital management system
